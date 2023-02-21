@@ -10,9 +10,9 @@
 
 ## Table of contents
 
-1. [About Linux Foundation](#About Linux Foundation)
-2. [Software environment](#Software environment)
-3. [three major Linux distribution families](#three major Linux distribution families)
+1. [About Linux Foundation](#About-Linux-Foundation)
+2. [Software environment](#Software-environment)
+3. [three major Linux distribution families](#three-major-Linux-distribution-families)
 4. [summary](#summary)
 
 ## About Linux Foundation

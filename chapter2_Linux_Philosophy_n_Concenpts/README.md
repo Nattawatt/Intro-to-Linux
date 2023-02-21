@@ -8,12 +8,12 @@
 
 ## table of contents
 
-1. [Linux History](#Linux History)
-2. [Linux Philosophy](#Linux Philosophy)
-3. [How Linux Is Built](#How Linux Is Built)
-4. [Linux Community](#Linux Community)
-5. [Linux Terminology](#Linux Terminology)
-6. [Linux Distributions](#Linux Distributions)
+1. [Linux History](#Linux-History)
+2. [Linux Philosophy](#Linux-Philosophy)
+3. [How Linux Is Built](#How-Linux-Is-Built)
+4. [Linux Community](#Linux-Community)
+5. [Linux Terminology](#Linux-Terminology)
+6. [Linux Distributions](#Linux-Distributions)
 7. [summary](#summary)
 
 ## Linux History
